@@ -1,0 +1,5 @@
+Contains SQL commands used to create the database tables and define their structure.
+queries.sql	Contains SQL queries for filtering, sorting, grouping, aggregation, functions and joins to analyse business data.
+superstore_profit_analysis.db	Contains the SQLite database with the tables created for the Superstore business analysis.
+query_register.md	Documents each SQL query, the business question it answers, the output summary and its business interpretation.
+readme_SQL.txt	Provides basic instructions on the SQL database, table structure and how to execute the queries.
