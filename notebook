@@ -1,4 +1,0 @@
-Introduces the business problem, key business question, dataset, variables and their relevance to the business.   
-Covers data cleaning, descriptive statistics, exploratory data analysis, missing values, duplicates, outliers and visualisations.
-	Develops multiple linear regression models with and without interaction terms, compares model performance and interprets the results.
-	Demonstrates SQL-based business analysis, query execution, output analysis and interpretation of findings.
