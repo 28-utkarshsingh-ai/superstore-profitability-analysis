@@ -1,0 +1,3 @@
+SQLite database file containing the tables created from the Superstore dataset, used to perform SQL queries, joins and business analysis.
+schema.sql	Contains SQL commands to create database tables, define columns, data types, primary keys and relationships between tables.
+database_readme.md	Explains the database structure, tables, relationships, how to open the database and how to execute SQL queries.
